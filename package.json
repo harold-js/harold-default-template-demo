@@ -1,13 +1,13 @@
 {
-  "name": "netlify-deployment-demo",
+  "name": "default-template",
   "version": "0.0.1",
-  "description": "netlify-deployment-demo",
+  "description": "default-template",
   "main": "index.js",
   "scripts": {
     "build": "harold-scripts build",
     "start": "harold-scripts start"
   },
   "devDependencies": {
-    "harold-scripts": "^1.1.1"
+    "harold-scripts": "^1.2.1"
   }
 }
